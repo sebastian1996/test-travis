@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Todo bien"
+[ "awesome" = "awesome" ]; echo $?
