@@ -1,3 +1,0 @@
-se requiere composer.json para indicar el tipo de proyecto, ejmeplo "require:php^5.6.0"
-
-ya esta travis
