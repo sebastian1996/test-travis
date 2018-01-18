@@ -1,6 +1,6 @@
 language: php
-deploy:
-  provider: heroku
-  api_key:
-    secure: "a7cfb5b2-2c6e-466d-a216-caf823af0f4c"
-  app: first-heroku-php
+php:
+  - '5.6'
+  - '7.1'
+  - hhvm # on Trusty only
+  - nightly
